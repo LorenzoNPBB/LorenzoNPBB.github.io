@@ -13,3 +13,4 @@ Como alumno de ASIR, tengo la oportunidad de profundizar en mi conocimiento y ha
 Además de mi formación en ASIR, también estoy comprometido con la educación y el aprendizaje constante. Me gusta compartir mis conocimientos y habilidades con otros, y estoy siempre dispuesto a ayudar a aquellos que también comparten mi interés por la informática.
 
 Si estás interesado en aprender más sobre informática o quieres saber más sobre mis proyectos y logros, no dudes en explorar mi sitio web y conectarte conmigo en línea. ¡Estoy emocionado de compartir mi pasión por la informática contigo!
+

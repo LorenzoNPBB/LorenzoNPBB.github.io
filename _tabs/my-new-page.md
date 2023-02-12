@@ -17,7 +17,7 @@ En esta tabla, se proporciona una breve descripción de cada lenguaje de program
 | --- | --- | --- |
 | [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)) | Aplicaciones empresariales, aplicaciones Android | ![Java](https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png) | 
 | [Python](https://es.wikipedia.org/wiki/Python) | Inteligencia artificial, análisis de datos, ciencia de datos | ![Python](https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icono-del-lenguaje-de-programacion-python.png)
-| [JavaScript](https://es.wikipedia.org/wiki/JavaScript) | Desarrollo web, aplicaciones de escritorio con Electron | ![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png?f=webp&w=128)
+| [JavaScript](https://es.wikipedia.org/wiki/JavaScript) | Desarrollo web, aplicaciones de escritorio con Electron | ![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png)
 | [C#](https://es.wikipedia.org/wiki/C_Sharp) | Desarrollo de aplicaciones de Windows, videojuegos con Unity | ![C#](https://www.stepsoftware.com/images/services/c-sharp.png)
 | [PHP](https://es.wikipedia.org/wiki/PHP) | Desarrollo web | ![PHP](https://images.vexels.com/media/users/3/166470/isolated/lists/73835fa38fba6d35aff9de603dc5044a-icono-de-lenguaje-de-programacion-php.png)
 | [C++](https://es.wikipedia.org/wiki/C%2B%2B) | Sistemas operativos, videojuegos | ![C++](https://images.vexels.com/media/users/3/166253/isolated/lists/14bc03b7b1c2c4e2656fd4c0a981cbbc-icono-de-lenguaje-de-programacion-cpp.png)

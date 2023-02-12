@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 Bienvenidos, soy un alumno de ASIR (Administración de Sistemas Informáticos en Red) y estoy encantado de compartir con ustedes mi pasión por la informática.
@@ -14,3 +14,9 @@ Además de mi formación en ASIR, también estoy comprometido con la educación 
 
 Si estás interesado en aprender más sobre informática o quieres saber más sobre mis proyectos y logros, no dudes en explorar mi sitio web y conectarte conmigo en línea. ¡Estoy emocionado de compartir mi pasión por la informática contigo!
 
+
+Aquí os dejo una lista de mis repositorios de Github.
+
+* [Cheap Thrills Cuisine](https://github.com/LorenzoNPBB/CheapThrills)
+* [BuddyPress](https://github.com/LorenzoNPBB/BuddyPress)
+* [FlaskApp](https://github.com/LorenzoNPBB/FlaskApp)

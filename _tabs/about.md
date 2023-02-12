@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 4
 ---
 
 Bienvenidos, soy un alumno de ASIR (Administración de Sistemas Informáticos en Red) y estoy encantado de compartir con ustedes mi pasión por la informática.

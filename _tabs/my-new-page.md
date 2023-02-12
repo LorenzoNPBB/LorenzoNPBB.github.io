@@ -16,7 +16,7 @@ En esta tabla, se proporciona una breve descripción de cada lenguaje de program
 
 | Lenguaje de programación | Uso 
 | --- | --- |
-| [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)) | Aplicaciones empresariales, aplicaciones Android | 
+| [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)) | Aplicaciones empresariales, aplicaciones Android | ![Java](https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png) |
 | [Python](https://es.wikipedia.org/wiki/Python) | Inteligencia artificial, análisis de datos, ciencia de datos |
 | [JavaScript](https://es.wikipedia.org/wiki/JavaScript) | Desarrollo web, aplicaciones de escritorio con Electron |
 | [C#](https://es.wikipedia.org/wiki/C_Sharp) | Desarrollo de aplicaciones de Windows, videojuegos con Unity | 

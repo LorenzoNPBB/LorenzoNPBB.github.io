@@ -4,7 +4,7 @@ title: Introducción a mi Github Pages
 date: 2023-02-10 21:01 +0100
 tags: [introduccion]
 categories: [introduccion]
-
+comments: true
 ---
 
 # Bienvenido!

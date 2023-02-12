@@ -4,6 +4,7 @@ title: Red Social Wordpress
 date: '2023-02-12 12:37:32 +0100'
 tags: [rrs]
 categories: [wordpress]
+comments: true
 ---
 
 # Wordpress_Extra

@@ -4,6 +4,7 @@ title: Cheap Thrills Cuisine
 date: '2023-02-12 12:36:01 +0100'
 tags: [hosteleria,digitalizacion]
 categories: [wordpress]
+comments: true
 ---
 
 # CheapThrillsCuisine

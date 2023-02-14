@@ -20,3 +20,18 @@ Aquí os dejo una lista de mis repositorios de Github.
 * [Cheap Thrills Cuisine](https://github.com/LorenzoNPBB/CheapThrills)
 * [BuddyPress](https://github.com/LorenzoNPBB/BuddyPress)
 * [FlaskApp](https://github.com/LorenzoNPBB/FlaskApp)
+
+
+
+# Colaboradores en la página
+
+
+{% for member in site.members %}
+  ## {{ member.name }} - {{ member.position }}
+  [ver]({{ member.url }}) 
+  {{ member.content | markdownify }}
+{% endfor %}
+
+{% for persona in site.data.personas %}
+  ## {{ persona.nombre }} - {{ persona.formacion }} - {{persona.edad}}
+{% endfor %}

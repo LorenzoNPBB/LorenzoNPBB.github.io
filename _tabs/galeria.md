@@ -5,4 +5,6 @@ title: Galeria
 
 **Imagen Estática**
 
-a
+{% for file in site.static_files %}
+    {{ file.path}} <br>
+{% endfor %}

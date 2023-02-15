@@ -10,3 +10,9 @@ title: Galeria
         <img src="{{file.path}}" alt="{file.name}">
     {% endif %}
 {% endfor %}
+
+
+
+
+![Image](/assets/img/github.png)
+![Imagee](/assets/img/python.png)

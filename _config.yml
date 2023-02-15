@@ -89,11 +89,6 @@ toc: true
 
 ################################################################
 
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
 
 
 comments:
@@ -174,6 +169,10 @@ defaults:
       path: assets/img/favicons
     values:
       swcache: true
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
   - scope:
       path: assets/js/dist
     values:

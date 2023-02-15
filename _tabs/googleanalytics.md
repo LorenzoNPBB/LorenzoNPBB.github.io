@@ -7,9 +7,9 @@ icon: fab fa-google
 1. Crear una cuenta de Google Analytics:
 
 * Abre una cuenta de Google Analytics en la página web de Google Analytics: https://analytics.google.com/
-* Haz clic en "Crear cuenta".
+* Haz clic en **Crear cuenta**.
 * Rellena los detalles requeridos, como el nombre de la cuenta, el nombre del sitio web y la dirección URL.
-* Acepta los Términos y Condiciones y haz clic en "Crear cuenta".
+* Acepta los Términos y Condiciones y haz clic en **Crear cuenta**.
 2. Crear una propiedad:
 
 * Haz clic en "Administrador" en la esquina superior derecha de la pantalla.
@@ -22,10 +22,12 @@ icon: fab fa-google
 * Haz clic en "Vista de seguimiento" en el panel "Propiedad".
 * Haz clic en el botón "Real Time" en la barra de navegación.
 * Haz clic en "Visitas" para ver los datos en tiempo real sobre el tráfico en tu sitio web.
-4. Instalar el código de seguimiento en nuestro GitHubPages:
+4. Instalar el código de seguimiento en GitHubPages:
 
 * Haz clic en _config.yml.
 * Introduce el GoogleAnalytics ID que nos genera.
+
+![Config.yml](https://images2.imgbox.com/aa/4f/XxhHXoDu_o.jpg)
 
 Cuando hayamos hecho esto en nuestro GoogleAnalytics nos saldrá este aviso. Que la recogida de datos de su sitio web está activa.
 

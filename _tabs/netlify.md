@@ -27,4 +27,4 @@ Una vez que tenemos todo esto ya tendríamos nuestro GithubPages subido a Netlif
 ![Netlify](https://images2.imgbox.com/ef/03/RHiT6chA_o.jpg)
 
 
-Este es el link de mi página en Netlify https://lorenzopages.netlify.app/
+[Este es el link de mi página en Netlify](https://lorenzopages.netlify.app/)

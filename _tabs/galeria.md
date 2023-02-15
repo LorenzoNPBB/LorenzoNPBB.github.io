@@ -6,5 +6,7 @@ title: Galeria
 **Imagen Estática**
 
 {% for file in site.static_files %}
-    {{ file.path}} <br>
+    {% if file.image %}
+        <img src="{{file.path}}" alt="{file.name}">
+    {% endif %}
 {% endfor %}

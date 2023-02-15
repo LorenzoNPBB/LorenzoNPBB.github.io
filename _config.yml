@@ -86,6 +86,16 @@ avatar: https://images2.imgbox.com/fa/e2/PmGDsy10_o.jpeg
 # boolean type, the global switch for ToC in posts.
 toc: true
 
+
+################################################################
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+
 comments:
   active: disqus         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:

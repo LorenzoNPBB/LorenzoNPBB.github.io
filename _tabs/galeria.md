@@ -15,4 +15,6 @@ title: Galeria
 
 
 ![Image](/assets/img/github.png)
-![Imagee](/assets/img/python.png)
+![Image](/assets/img/python.png)
+
+

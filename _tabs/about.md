@@ -23,7 +23,7 @@ Aquí os dejo una lista de mis repositorios de Github.
 
 
 
-# Colaboradores en la página
+# Colaboradores de la página
 
 
 {% for member in site.members %}

@@ -5,4 +5,5 @@ title: Galeria
 
 **Imagen Estática**
 
-a
+
+<img src="\assets\lib\image\github.png">

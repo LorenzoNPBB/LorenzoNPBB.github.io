@@ -30,6 +30,7 @@ Para activar Disqus en tu sitio de Github Pages construido con Jekyll hay que se
 1. Regístrate en Disqus: Primero, necesitarás registrarte en Disqus para obtener una cuenta. 
 
 2. Agrega Disqus a tu sitio web: Dirígete al sitio web de Disqus e inicia sesión en tu cuenta. Luego, haz clic en el botón "Añade Disqus a tu sitio web" y completa los campos requeridos en el formulario que aparece. Esto generará un código que debes copiar.
+
 ![disqus](https://images2.imgbox.com/85/24/WgjF2Qx6_o.jpg)
 
 ![disqus](https://images2.imgbox.com/60/68/ycEIPyOy_o.jpg)

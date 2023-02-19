@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galeria
+title: Gallery
 ---
 
 **Imagen Estática**

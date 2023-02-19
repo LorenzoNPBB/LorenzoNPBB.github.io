@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Colaboradores
+title: Collaborators
 icon: fas fa-code	
 ---
 

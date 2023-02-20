@@ -7,13 +7,20 @@ icon: fas fa-code
 **Colaradores de la página** 
 
 
-|  Colaboradores |
-
-| Nombre | Formacion | Edad |
-
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Formacion</th>
+    <th>Edad</th>
+  </tr>
 {% for persona in site.data.personas %}
-  | {{ persona.nombre }} | {{ persona.formacion }} | {{persona.edad}}
+  <tr> <td>{{ persona.nombre }} </td>
+  <td> {{ persona.formacion }} </td> 
+  <td>{{persona.edad}} </td> 
+  </tr>
 {% endfor %}
+
+</table>
 
 
  **Como he hecho esto** 

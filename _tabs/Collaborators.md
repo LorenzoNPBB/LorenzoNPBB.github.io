@@ -27,4 +27,4 @@ icon: fas fa-code
  He creado un .json en _data con los nombres de los colaboradores.
  Después lo he impreso con html mediante un for
 
-![tabla](https://images2.imgbox.com/c6/82/O42Co1qT_o.jpg)
+![tabla](https://images2.imgbox.com/ce/6c/bB3B3lr4_o.jpg)

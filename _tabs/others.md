@@ -21,6 +21,16 @@ En mi caso aquí he ido almacenando las páginas de mi GithubPages.
 ![collect](https://images2.imgbox.com/98/22/cn6W52je_o.jpg)
 
 
+
+**Sobreescribir algo del tema**
+
+Para sobreescribir algo del tema lo que he añadido va a ser dos nuevos iconos en la barra social de abajo.
+En mi caso he añadido en _data/contact.yml un botón para ir a Linkedin y a Youtube.
+
+![sobrescrito](https://images2.imgbox.com/64/0a/ROhM75lJ_o.jpg)
+
+
+
 **Disqus**
 
 El servicio de chat está disponible en los posts.

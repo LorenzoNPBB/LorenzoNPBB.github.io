@@ -6,15 +6,15 @@ icon: fas fa-code
 
 **Colaradores de la página** 
 
-{% for member in site.members %}
-  ## {{ member.name }} - {{ member.position }}
-  [ver]({{ member.url }}) 
-  {{ member.content | markdownify }}
-{% endfor %}
+
+|  Colaboradores |
+
+| Nombre | Formacion | Edad |
 
 {% for persona in site.data.personas %}
-  ## {{ persona.nombre }} - {{ persona.formacion }} - {{persona.edad}}
+  | {{ persona.nombre }} | {{ persona.formacion }} | {{persona.edad}}
 {% endfor %}
+
 
  **Como he hecho esto** 
 
